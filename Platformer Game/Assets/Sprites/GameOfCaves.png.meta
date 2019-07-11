@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 104969714d7e6664082ae2196be14241
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4380707042074535360
+    second: GameOfCaves_0
+  - first:
+      213: -4619347552286582846
+    second: GameOfCaves_1
+  - first:
+      213: -7472586868422019486
+    second: GameOfCaves_2
+  - first:
+      213: 2784090288316427382
+    second: GameOfCaves_3
+  - first:
+      213: -4445839799100565722
+    second: GameOfCaves_4
+  - first:
+      213: -797059518081576147
+    second: GameOfCaves_5
+  - first:
+      213: 7556654765386688206
+    second: GameOfCaves_6
+  - first:
+      213: 6461562105466786183
+    second: GameOfCaves_7
+  - first:
+      213: 7083600926433933469
+    second: GameOfCaves_8
+  - first:
+      213: 3765081814407670817
+    second: GameOfCaves_9
+  - first:
+      213: 5105021929003970842
+    second: GameOfCaves_10
+  - first:
+      213: 2731510227957895636
+    second: GameOfCaves_11
+  - first:
+      213: -7080028193127782368
+    second: GameOfCaves_12
+  - first:
+      213: -849407841446875300
+    second: GameOfCaves_13
+  - first:
+      213: 4651101487942986434
+    second: GameOfCaves_14
+  - first:
+      213: -1728837452376641200
+    second: GameOfCaves_15
+  - first:
+      213: 5499775643615244628
+    second: GameOfCaves_16
+  - first:
+      213: 6441192379032799138
+    second: GameOfCaves_17
+  - first:
+      213: -7132381420424406501
+    second: GameOfCaves_18
+  - first:
+      213: 4053419003541666658
+    second: GameOfCaves_19
+  - first:
+      213: -4394260764802797308
+    second: GameOfCaves_20
+  - first:
+      213: -6667198260589552377
+    second: GameOfCaves_21
+  - first:
+      213: 8423570360068602135
+    second: GameOfCaves_22
+  - first:
+      213: 7944030779022503685
+    second: GameOfCaves_23
+  - first:
+      213: -5101514545159282630
+    second: GameOfCaves_24
+  - first:
+      213: -3681775276793373304
+    second: GameOfCaves_25
+  - first:
+      213: -7338382163521978331
+    second: GameOfCaves_26
+  - first:
+      213: 3856947977761041561
+    second: GameOfCaves_27
+  - first:
+      213: -368314405293262793
+    second: GameOfCaves_28
+  - first:
+      213: 3613305062887848870
+    second: GameOfCaves_29
+  - first:
+      213: 13348785908845039
+    second: GameOfCaves_30
+  - first:
+      213: 3887036817339444506
+    second: GameOfCaves_31
+  - first:
+      213: -817811609091681927
+    second: GameOfCaves_32
+  - first:
+      213: 8868135581079004119
+    second: GameOfCaves_33
+  - first:
+      213: 6194921504842909689
+    second: GameOfCaves_34
+  - first:
+      213: -3135437794268548994
+    second: GameOfCaves_35
+  - first:
+      213: 6462719972387217637
+    second: GameOfCaves_36
+  - first:
+      213: 5725556384708535246
+    second: GameOfCaves_37
+  - first:
+      213: 6286261481801406048
+    second: GameOfCaves_38
+  - first:
+      213: 1526781847064356160
+    second: GameOfCaves_39
+  - first:
+      213: -8282973679026156143
+    second: GameOfCaves_40
+  - first:
+      213: 6105774635770700917
+    second: GameOfCaves_41
+  - first:
+      213: 8609995471088348784
+    second: GameOfCaves_42
+  - first:
+      213: 706377608470230723
+    second: GameOfCaves_43
+  - first:
+      213: 2111471878037537038
+    second: GameOfCaves_44
+  - first:
+      213: 4943675772284006909
+    second: GameOfCaves_45
+  - first:
+      213: -6917973157513384928
+    second: GameOfCaves_46
+  - first:
+      213: -3514294780024126146
+    second: GameOfCaves_47
+  - first:
+      213: -2974186031099594253
+    second: GameOfCaves_48
+  - first:
+      213: 7776138384417260884
+    second: GameOfCaves_49
+  - first:
+      213: -1911745072874795397
+    second: GameOfCaves_50
+  - first:
+      213: -1173407898637824403
+    second: GameOfCaves_51
+  - first:
+      213: -2558815704389133095
+    second: GameOfCaves_52
+  - first:
+      213: -787684059275467319
+    second: GameOfCaves_53
+  - first:
+      213: 456021455235937143
+    second: GameOfCaves_54
+  - first:
+      213: -3726965206973757426
+    second: GameOfCaves_55
+  - first:
+      213: -4031782959065053700
+    second: GameOfCaves_56
+  - first:
+      213: -7003075091653431980
+    second: GameOfCaves_57
+  - first:
+      213: 2226374406791250866
+    second: GameOfCaves_58
+  - first:
+      213: 2993109220176156947
+    second: GameOfCaves_59
+  - first:
+      213: 316618939655427447
+    second: GameOfCaves_60
+  - first:
+      213: 6277648220519852756
+    second: GameOfCaves_61
+  - first:
+      213: -1862424398972822889
+    second: GameOfCaves_62
+  - first:
+      213: 2719988415677761943
+    second: GameOfCaves_63
+  - first:
+      213: 2420419476180175406
+    second: GameOfCaves_64
+  - first:
+      213: 3182817948365977329
+    second: GameOfCaves_65
+  - first:
+      213: -6223119836801107353
+    second: GameOfCaves_66
+  - first:
+      213: 8966273904817232244
+    second: GameOfCaves_67
+  - first:
+      213: -6969086657071055624
+    second: GameOfCaves_68
+  - first:
+      213: -5049906448359381476
+    second: GameOfCaves_69
+  - first:
+      213: -4748428300860400465
+    second: GameOfCaves_70
+  - first:
+      213: 9039882820856292150
+    second: GameOfCaves_71
+  - first:
+      213: 4860883062893741313
+    second: GameOfCaves_72
+  - first:
+      213: 6952451835146660375
+    second: GameOfCaves_73
+  - first:
+      213: 6471947606685524391
+    second: GameOfCaves_74
+  - first:
+      213: 5931820999221225787
+    second: GameOfCaves_75
+  - first:
+      213: -4165937210781229717
+    second: GameOfCaves_76
+  - first:
+      213: -2800783673900612460
+    second: GameOfCaves_77
+  - first:
+      213: 2881616067280072792
+    second: GameOfCaves_78
+  - first:
+      213: 5872897058422514233
+    second: GameOfCaves_79
+  - first:
+      213: 427116314573073959
+    second: GameOfCaves_80
+  - first:
+      213: -4754921651185533019
+    second: GameOfCaves_81
+  - first:
+      213: -8421401196013493
+    second: GameOfCaves_82
+  - first:
+      213: -1347647961188255936
+    second: GameOfCaves_83
+  - first:
+      213: 401553273994493095
+    second: GameOfCaves_84
+  - first:
+      213: 911303633579118652
+    second: GameOfCaves_85
+  - first:
+      213: 1203324104680737979
+    second: GameOfCaves_86
+  - first:
+      213: -6643925416141279091
+    second: GameOfCaves_87
+  - first:
+      213: 6181859208647507774
+    second: GameOfCaves_88
+  - first:
+      213: 3364545107478839730
+    second: GameOfCaves_89
+  - first:
+      213: -5661956842174815864
+    second: GameOfCaves_90
+  - first:
+      213: 4283746813266603739
+    second: GameOfCaves_91
+  - first:
+      213: -1452336663001888701
+    second: GameOfCaves_92
+  - first:
+      213: 8583384733796258020
+    second: GameOfCaves_93
+  - first:
+      213: 1183541857617450309
+    second: GameOfCaves_94
+  - first:
+      213: 3101207980589361890
+    second: GameOfCaves_95
+  - first:
+      213: 6668297606220317915
+    second: GameOfCaves_96
+  - first:
+      213: -3022701101979423325
+    second: GameOfCaves_97
+  - first:
+      213: -3012756851670474880
+    second: GameOfCaves_98
+  - first:
+      213: -6104521461788144779
+    second: GameOfCaves_99
+  - first:
+      213: 8126036791670898809
+    second: GameOfCaves_100
+  - first:
+      213: -4050688715536090716
+    second: GameOfCaves_101
+  - first:
+      213: -4303678274821340921
+    second: GameOfCaves_102
+  - first:
+      213: 2456619835710984183
+    second: GameOfCaves_103
+  - first:
+      213: -91431631650591483
+    second: GameOfCaves_104
+  - first:
+      213: 1543949834347619925
+    second: GameOfCaves_105
+  - first:
+      213: 2232248564131589686
+    second: GameOfCaves_106
+  - first:
+      213: 688725313306618871
+    second: GameOfCaves_107
+  - first:
+      213: 1555926963112324358
+    second: GameOfCaves_108
+  - first:
+      213: -2548555759243312361
+    second: GameOfCaves_109
+  - first:
+      213: -2037938701884060778
+    second: GameOfCaves_110
+  - first:
+      213: 2635432107724547371
+    second: GameOfCaves_111
+  - first:
+      213: -4685782285347186557
+    second: GameOfCaves_112
+  - first:
+      213: 213265813457753777
+    second: GameOfCaves_113
+  - first:
+      213: -4419559564319708467
+    second: GameOfCaves_114
+  - first:
+      213: 9070595173700966121
+    second: GameOfCaves_115
+  - first:
+      213: -2288443848642347270
+    second: GameOfCaves_116
+  - first:
+      213: 1407964583067267800
+    second: GameOfCaves_117
+  - first:
+      213: 3715555997165754971
+    second: GameOfCaves_118
+  - first:
+      213: 7215737659819565701
+    second: GameOfCaves_119
+  - first:
+      213: 4566765294379439762
+    second: GameOfCaves_120
+  - first:
+      213: -7371513316083843003
+    second: GameOfCaves_121
+  - first:
+      213: -6007390085790326606
+    second: GameOfCaves_122
+  - first:
+      213: -8828641433408601642
+    second: GameOfCaves_123
+  - first:
+      213: -3951854251313627831
+    second: GameOfCaves_124
+  - first:
+      213: -8989542947228433889
+    second: GameOfCaves_125
+  - first:
+      213: -6323065588218198093
+    second: GameOfCaves_126
+  - first:
+      213: 1630750149403764575
+    second: GameOfCaves_127
+  - first:
+      213: -5593467386844467782
+    second: GameOfCaves_128
+  - first:
+      213: -3019071461634902216
+    second: GameOfCaves_129
+  - first:
+      213: -2463679555202170666
+    second: GameOfCaves_130
+  - first:
+      213: 5014958829555415093
+    second: GameOfCaves_131
+  - first:
+      213: -8305826962785620053
+    second: GameOfCaves_132
+  - first:
+      213: 2435374247202116508
+    second: GameOfCaves_133
+  - first:
+      213: -193459190320478940
+    second: GameOfCaves_134
+  - first:
+      213: 6387015215255588020
+    second: GameOfCaves_135
+  - first:
+      213: 1176502298770703124
+    second: GameOfCaves_136
+  - first:
+      213: -4178789805921349211
+    second: GameOfCaves_137
+  - first:
+      213: -841359175748740257
+    second: GameOfCaves_138
+  - first:
+      213: -814459551365978161
+    second: GameOfCaves_139
+  - first:
+      213: -8667430113207419445
+    second: GameOfCaves_140
+  - first:
+      213: -6937406622246488750
+    second: GameOfCaves_141
+  - first:
+      213: 7103638854575928931
+    second: GameOfCaves_142
+  - first:
+      213: -5026345087570876861
+    second: GameOfCaves_143
+  - first:
+      213: -8649590515438047687
+    second: GameOfCaves_144
+  - first:
+      213: 8675754833456432275
+    second: GameOfCaves_145
+  - first:
+      213: -7875786902520419417
+    second: GameOfCaves_146
+  - first:
+      213: -1205456049362677841
+    second: GameOfCaves_147
+  - first:
+      213: -3407390617593177507
+    second: GameOfCaves_148
+  - first:
+      213: -7062653265571611198
+    second: GameOfCaves_149
+  - first:
+      213: -2954360257143537986
+    second: GameOfCaves_150
+  - first:
+      213: -7513728883509530719
+    second: GameOfCaves_151
+  - first:
+      213: 8829054747873105012
+    second: GameOfCaves_152
+  - first:
+      213: -3441787661141915515
+    second: GameOfCaves_153
+  - first:
+      213: 1131427436595435633
+    second: GameOfCaves_154
+  - first:
+      213: -788802350621467501
+    second: GameOfCaves_155
+  - first:
+      213: 2226008552325868199
+    second: GameOfCaves_156
+  - first:
+      213: -2628356010689077495
+    second: GameOfCaves_157
+  - first:
+      213: 1511225513076686768
+    second: GameOfCaves_158
+  - first:
+      213: 6247506189301023216
+    second: GameOfCaves_159
+  - first:
+      213: 6074549374194491469
+    second: GameOfCaves_160
+  - first:
+      213: -3500593160750911517
+    second: GameOfCaves_161
+  - first:
+      213: 8241635105624340425
+    second: GameOfCaves_162
+  - first:
+      213: -3563295619715997303
+    second: GameOfCaves_163
+  - first:
+      213: -4734935011188000037
+    second: GameOfCaves_164
+  - first:
+      213: 5926258164319640568
+    second: GameOfCaves_165
+  - first:
+      213: 3369529904709495883
+    second: GameOfCaves_166
+  - first:
+      213: -6432654059097096843
+    second: GameOfCaves_167
+  - first:
+      213: 7178262459503312619
+    second: GameOfCaves_168
+  - first:
+      213: -2410813008871567881
+    second: GameOfCaves_169
+  - first:
+      213: -5967667364995048608
+    second: GameOfCaves_170
+  - first:
+      213: 7023101550438319042
+    second: GameOfCaves_171
+  - first:
+      213: -8373921428304453265
+    second: GameOfCaves_172
+  - first:
+      213: 4147992390822600990
+    second: GameOfCaves_173
+  - first:
+      213: 2664142403231431225
+    second: GameOfCaves_174
+  - first:
+      213: -7336529388093431738
+    second: GameOfCaves_175
+  - first:
+      213: 5921065320755474693
+    second: GameOfCaves_176
+  - first:
+      213: 8821042434180557767
+    second: GameOfCaves_177
+  - first:
+      213: -1123139038250430376
+    second: GameOfCaves_178
+  - first:
+      213: -7804742192912069764
+    second: GameOfCaves_179
+  - first:
+      213: 1115342967480749044
+    second: GameOfCaves_180
+  - first:
+      213: -7316090655929336090
+    second: GameOfCaves_181
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOfCaves_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d6b182bf089ae418fbfc627151cfae
+      internalID: 4380707042074535360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9174119c92863145a28b7e70f95b73d
+      internalID: -4619347552286582846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed1d4104c9b6e547bbf797ce69ccf75
+      internalID: -7472586868422019486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9803b4fb1a3e2c44b120c180a87b470
+      internalID: 2784090288316427382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e207246556d7b428fb705776971989
+      internalID: -4445839799100565722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9162ea15d5e3d468686567f47165d4
+      internalID: -797059518081576147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd9b29c85a2da4d840e1816b05ad0c
+      internalID: 7556654765386688206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c8903eeb54dc42be2575ce5d17906
+      internalID: 6461562105466786183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cabee5893a04e488c64f5ff0257df1
+      internalID: 7083600926433933469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539b9eee954b8546897eb5b59f26ce0
+      internalID: 3765081814407670817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00653457204d6a14fa1d7ff64ce85ac3
+      internalID: 5105021929003970842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26120c7dd56ae26489e990ea3710b1ae
+      internalID: 2731510227957895636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c75187e54f46c247aedbdf99d3703a8
+      internalID: -7080028193127782368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1fce6890cb2b48ab4c5b41e3e1e8c
+      internalID: -849407841446875300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fac1655064666439853695b3027220
+      internalID: 4651101487942986434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96bd9a9f27ac4649a676c7951f2489a
+      internalID: -1728837452376641200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_16
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45626aeed7261424aa2cbdb0ff4ac6b1
+      internalID: 5499775643615244628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a46f06b3ef904daed52d761b88a09
+      internalID: 6441192379032799138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e11f8d6c78aa46b8d91ab6cac6706
+      internalID: -7132381420424406501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164735cdc4de67149a8706493535582e
+      internalID: 4053419003541666658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ed7d1c3bf5c254cb9e345ac605e416
+      internalID: -4394260764802797308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b5042ddcef407478149769fbee54c2
+      internalID: -6667198260589552377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c88a3cdd8209942b556df4e134cc60
+      internalID: 8423570360068602135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcffcd172e777d4896e004518b02cd5
+      internalID: 7944030779022503685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb483004fb59b4d96c25ec994c8f08
+      internalID: -5101514545159282630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766e2225029245c4e9fea743157e7d25
+      internalID: -3681775276793373304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab7778c21d5c64d9e029267208f5fe
+      internalID: -7338382163521978331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 60
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e20a126b2988d4397e9fe02089a6ed
+      internalID: 3856947977761041561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396fc424be0dcc42aab12c3ceee1761
+      internalID: -368314405293262793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bae9225383bfc40a1f1e91236dc2ae
+      internalID: 3613305062887848870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832d0cab3851e14abf86ede5f626c13
+      internalID: 13348785908845039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f3e400ecbc0a4798e3b19d63e135f
+      internalID: 3887036817339444506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b57d47f54158845aaa3325ba9b9058
+      internalID: -817811609091681927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b5d1ec778233438cb7f2dd8eacaf7
+      internalID: 8868135581079004119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b3ed6abdbfdf409833e3a37c0f5cc
+      internalID: 6194921504842909689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13349d877e45a1d4e93a7e38c5bab235
+      internalID: -3135437794268548994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c968c79cee3ae8459f4b65bd558a95b
+      internalID: 6462719972387217637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_37
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc4a23329ad4440bd7d0338a8aa470
+      internalID: 5725556384708535246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45288d1a6a153b24ab5249afc9cfccc4
+      internalID: 6286261481801406048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fa78ab2aed864590f594a95c6dd17
+      internalID: 1526781847064356160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f6b5e1159ccc4688be1fe5361d9e7
+      internalID: -8282973679026156143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_41
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c5fd66d524297418f0fd453768c803
+      internalID: 6105774635770700917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c4aa1c7f49b24b9edb05665576ee0
+      internalID: 8609995471088348784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_43
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bef7f98bebd2c49bf6a1db9c833d1b
+      internalID: 706377608470230723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2922f21eeec8d5f4a95a59466e2d5b29
+      internalID: 2111471878037537038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82d66863b06de449bfc5cfe9a9a1e8
+      internalID: 4943675772284006909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e78c27cdf55fee4c9465b9ddec5b8bd
+      internalID: -6917973157513384928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameOfCaves_47
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613a75b3552da44aaad8e61de4378e8
+      internalID: -3514294780024126146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a2bd2f934c1fcbb4892c9ac12ecc776f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
