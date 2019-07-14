@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     [SerializeField] float runningSpeed = 1f;
     [SerializeField] float jumpHight = 1f;
+    private int jumpCount = 0;
 
     Vector2 moveDir;
 
@@ -26,6 +27,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        Debug.Log(jumpCount);
         Move();
     }
 
@@ -40,10 +42,17 @@ public class Player : MonoBehaviour
     private void Jump()
     {
 
-        if (Input.GetButtonDown("Jump") && myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        if (Input.GetButtonDown("Jump") && (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")) || jumpCount < 1 ))
         {
             Vector2 jumpVelocity = new Vector2(0f, jumpHight);
+            myRighdbody2D.velocity = new Vector2(0,0);
             myRighdbody2D.velocity += jumpVelocity;
+            jumpCount++;
+        }
+
+        if(myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        {
+            jumpCount = 0;
         }
 
     }
