@@ -8,7 +8,8 @@ public class Player : MonoBehaviour
     [SerializeField] float runningSpeed = 1f;
     [SerializeField] float climbingSpeed = 1f;
     [SerializeField] float jumpHight = 1f;
-    private int jumpCount = 0;
+    private bool canDoubleJump;
+    private bool canJump = true;
 
     Vector2 moveDir;
 
@@ -29,14 +30,21 @@ public class Player : MonoBehaviour
 
     }
 
+
+
+    private void FixedUpdate()
+    {
+        //Move(); 
+    }
+
     private void Update()
     {
-        Debug.Log(jumpCount);
         Move();
     }
 
     private void Move()
     {
+        IsTounchingGround();
         Run();
         Jump();
         Climb();
@@ -72,22 +80,50 @@ public class Player : MonoBehaviour
     private void Jump()
     {
 
-        if (Input.GetButtonDown("Jump") &&  jumpCount < 1 )
+
+        if (Input.GetButtonDown("Jump"))
         {
-            myAnimtor.SetBool("jumping", true);
-            Vector2 jumpVelocity = new Vector2(0f, jumpHight);
-            myRighdbody2D.velocity = new Vector2(0,0);
-            myRighdbody2D.velocity += jumpVelocity;
-            jumpCount++;
+            Debug.Log("click");
+            if(canJump)
+            {
+                Vector2 jumpVelocity = new Vector2(0f, jumpHight);
+                myRighdbody2D.velocity = new Vector2(0, 0);
+                myRighdbody2D.velocity += jumpVelocity;
+                canDoubleJump = true;
+                canJump = false;
+            }
+            else if (canDoubleJump)
+            {
+                Vector2 jumpVelocity = new Vector2(0f, jumpHight);
+                myRighdbody2D.velocity = new Vector2(0, 0);
+                myRighdbody2D.velocity += jumpVelocity;
+                canDoubleJump = false;
+            }  
+        }
+        else if(IsTounchingGround())
+        {
+            canJump = true;
         }
 
-        else if (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
-        {
-            myAnimtor.SetBool("jumping", false);
-            jumpCount = 0;
-        }
+        if(IsTounchingGround()){ myAnimtor.SetBool("jumping", false); } 
+        else { myAnimtor.SetBool("jumping", true); }
+
+
+
     }
 
+    public bool IsTounchingGround()
+    {
+        if (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")) || myCollider.IsTouchingLayers(LayerMask.GetMask("Climbing")))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+            
+    }
 
 
     private void Run()
@@ -99,8 +135,7 @@ public class Player : MonoBehaviour
         bool playerHorizontalSpeed = Mathf.Abs(moveDir.x) > Mathf.Epsilon;
 
         myAnimtor.SetBool("running", playerHorizontalSpeed);
-        mySpriteRenderer.flipX = moveDir.x < 0;
-      
-
+        if (moveDir.x != 0 ) { mySpriteRenderer.flipX = moveDir.x < 0; }
+        
     }
 }
