@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
@@ -10,6 +11,10 @@ public class Player : MonoBehaviour
     [SerializeField] float jumpHight = 1f;
     private bool canDoubleJump;
     private bool canJump = true;
+    [SerializeField] float startHealth = 100f;
+    private float health;
+    [SerializeField] Image healthBar;
+    private bool isAlive = true;
 
     Vector2 moveDir;
 
@@ -27,18 +32,17 @@ public class Player : MonoBehaviour
 
         playerGravity = myRighdbody2D.gravityScale;
 
+        health = startHealth;
+
 
     }
 
 
-
-    private void FixedUpdate()
-    {
-        //Move(); 
-    }
 
     private void Update()
     {
+            
+        if (!isAlive) { return; }
         Move();
     }
 
@@ -116,6 +120,7 @@ public class Player : MonoBehaviour
     {
         if (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")) || myCollider.IsTouchingLayers(LayerMask.GetMask("Climbing")))
         {
+            Debug.Log(myCollider);
             return true;
         }
         else
@@ -138,4 +143,20 @@ public class Player : MonoBehaviour
         if (moveDir.x != 0 ) { mySpriteRenderer.flipX = moveDir.x < 0; }
         
     }
+
+
+    public void GetDamage(float damage)
+    {
+        health -= damage;
+        healthBar.fillAmount =  health/ startHealth;
+        if(health <= 0) { Die(); }
+    }
+
+    private void Die()
+    {
+        if (isAlive) { GetComponent<Animator>().SetBool("Dead", true); }
+        isAlive = false;
+    }
+
+    
 }
