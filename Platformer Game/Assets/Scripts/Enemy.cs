@@ -65,6 +65,7 @@ public class Enemy : MonoBehaviour
             GetComponent<Animator>().SetBool("Attacking", false);
             return;
         }
+        
         transform.localScale =  new Vector2( -transform.localScale.x, transform.localScale.y );
         
     }

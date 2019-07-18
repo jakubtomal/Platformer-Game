@@ -18,10 +18,10 @@ TagManager:
   - Player
   - Background
   - Enemy
-  - EnemyBady
-  - 
-  - 
-  - 
+  - EnemyBody
+  - Hazards
+  - Lava
+  - Interactable
   - 
   - 
   - 
@@ -50,8 +50,17 @@ TagManager:
   - name: Enemy
     uniqueID: 911919083
     locked: 0
+  - name: Interactable
+    uniqueID: 167638471
+    locked: 0
   - name: Player
     uniqueID: 2357218533
+    locked: 0
+  - name: Lava
+    uniqueID: 3603189769
+    locked: 0
+  - name: Hazards
+    uniqueID: 268442343
     locked: 0
   - name: Foreground
     uniqueID: 3903606437

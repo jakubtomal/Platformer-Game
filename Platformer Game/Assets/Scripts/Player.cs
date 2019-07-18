@@ -41,17 +41,19 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-            
         if (!isAlive) { return; }
         Move();
+        GetDamageFormHazards();
     }
 
     private void Move()
     {
+
         IsTounchingGround();
         Run();
         Jump();
         Climb();
+        
 
         
     }
@@ -87,7 +89,6 @@ public class Player : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
-            Debug.Log("click");
             if(canJump)
             {
                 Vector2 jumpVelocity = new Vector2(0f, jumpHight);
@@ -120,7 +121,6 @@ public class Player : MonoBehaviour
     {
         if (myCollider.IsTouchingLayers(LayerMask.GetMask("Ground")) || myCollider.IsTouchingLayers(LayerMask.GetMask("Climbing")))
         {
-            Debug.Log(myCollider);
             return true;
         }
         else
@@ -149,14 +149,28 @@ public class Player : MonoBehaviour
     {
         health -= damage;
         healthBar.fillAmount =  health/ startHealth;
-        if(health <= 0) { Die(); }
+        if(health <= 0) { StartCoroutine(Die()); }
     }
 
-    private void Die()
+    private IEnumerator Die()
     {
         if (isAlive) { GetComponent<Animator>().SetBool("Dead", true); }
         isAlive = false;
+        yield return new WaitForSeconds(2);
+        FindObjectOfType<GameSession>().ResetGameSession();
     }
 
-    
+    private void GetDamageFormHazards()
+    {
+        
+        if(myCollider.IsTouchingLayers(LayerMask.GetMask("Hazards")))
+        {
+            GetDamage(10f * Time.deltaTime); 
+        }
+
+        if (myCollider.IsTouchingLayers(LayerMask.GetMask("Lava")))
+        {
+            GetDamage(startHealth * Time.deltaTime);
+        }
+    }
 }
